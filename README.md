@@ -7,7 +7,7 @@
 - php
 - mySql
 
-## Project Demo
+## Project Demo 📸
 
 ![image](https://github.com/Satyam-Rai-1/Visitor-Management-System/assets/114327173/64bc9297-a088-45ae-a2f8-141485bf6aef)
 ![image](https://github.com/Satyam-Rai-1/Visitor-Management-System/assets/114327173/470a0da5-a7ac-4eed-a15a-3938500e4d38)
