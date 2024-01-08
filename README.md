@@ -15,5 +15,5 @@
 ![image](https://github.com/Satyam-Rai-1/Visitor-Management-System/assets/114327173/c677512a-d008-490c-a7ac-7f9d3c589c44)
 ![image](https://github.com/Satyam-Rai-1/Visitor-Management-System/assets/114327173/69c5024e-43f6-4eb4-afa8-8b5ec49e6f22)
 
-## Authors 👨‍💻
+## Author 👨‍💻
 - @Satyam-Rai-1
